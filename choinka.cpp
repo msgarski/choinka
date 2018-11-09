@@ -23,7 +23,8 @@ int main(int argc, char** argv) {
 			
 	
 	
-	
+	std::cin.sync();
+	std::cin.get();
 	
 	
 	
